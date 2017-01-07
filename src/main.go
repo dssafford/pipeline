@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Finially got this to work, ass!!!");
+	fmt.Println("Finially got this to work, fucker!!!");
 }
